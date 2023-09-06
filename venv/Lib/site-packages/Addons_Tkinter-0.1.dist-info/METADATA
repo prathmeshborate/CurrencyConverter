@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: Addons-Tkinter
+Version: 0.1
+Summary: Addons-tkinter gives you everything you need for tkinter. Made by the creator of Pip-for-CMD.
+Home-page: https://github.com/OmerYelin/Addons-Tkinter
+Author: Omer Yelin
+Author-email: pipforcmd@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Addons-Tkinter
+### Everything you need for Tkinter
+
+##### Addons-Tkinter is a simple module that gives you everything that you need to use in tkinter.
+##### In Addons-Tkinter's current version, we are supporting:
+
+- fonts
+- colors
+- characters
+
+##### Addons-Tkinter is completely open-source.
+## Installation
+
+Addons-Tkinter does not requires any external modules to run.
+
+To install Addons-Tkinter, just write this command into your command line:
+```sh
+pip install addons_tkinter
+```
+
+
