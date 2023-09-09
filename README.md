@@ -2,7 +2,7 @@
 
 CurrencyConverter is a Python project that leverages the powerful CurrencyConverter package to provide real-time currency conversion capabilities. Say goodbye to manual currency calculations and complicated exchange rate lookups; with CurrencyConverter, you can effortlessly convert between various currencies with ease.
 
-![Project Image](project_image.png)
+![Project Image](CurrencyConverter.PNG)
 
 ---
 
