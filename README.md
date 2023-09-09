@@ -16,7 +16,6 @@ CurrencyConverter is a Python project that leverages the powerful CurrencyConver
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -88,6 +87,6 @@ Contributions to the CurrencyConverter project are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-##Acknowledgements
+## Acknowledgements
 - The CurrencyConverter Python project utilizes the CurrencyConverter package, which is made possible by the open-source community.
 - Special thanks to the developers of the CurrencyConverter package for providing a valuable tool for currency conversion.
