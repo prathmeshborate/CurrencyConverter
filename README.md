@@ -52,7 +52,7 @@ Before you begin, ensure you have the following software and packages installed:
 2. Navigate to the project directory:
 
    ```sh
-   cd currency-converter
+   cd CurrencyConverter
 
 3. Install the required Python packages:
 
